@@ -5,6 +5,6 @@ protobuf>=4.23
 puremagic~=1.11
 pycryptodome>=3.9.7
 pycryptodomex>=3.9.7
-pytz>=2021.3
+pytz==2024.1
 setuptools>=65.5.1
 xlsxwriter>=3.1
