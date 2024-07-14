@@ -3,7 +3,7 @@
 """Hindsight - Internet history forensics for Google Chrome/Chromium.
 
 This script parses the files in the Chrome data folder, runs various plugins
-against the data, and then outputs the results in a spreadsheet.
+against the data, and then outputs the results in a spreadsheet .
 """
 
 import argparse
